@@ -25,7 +25,7 @@ export default function Home() {
           description="Alerts in last 24 hours"
         />
         <DashboardCard
-          title="Active Devices"
+          title="Active "
           value={1}
           description="Devices currently online"
         />
